@@ -25,5 +25,7 @@ print(equal)
 ```
 
 ## Output
+![image](https://github.com/user-attachments/assets/efe04055-4125-4746-a0b4-d15fe16cc6c0)
 
 ## Result
+Thus,the program has been executed successfully.
